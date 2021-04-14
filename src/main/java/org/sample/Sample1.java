@@ -12,6 +12,7 @@ public class Sample1 {
 	public void method3() {
 		System.out.println("method 3");
 	}
+
 	public void method4() {
 		System.out.println("method 4");
 	}
@@ -22,5 +23,17 @@ public class Sample1 {
 
 	public void method6() {
 		System.out.println("method 6");
+	}
+
+	public void method7() {
+		System.out.println("method7");
+	}
+
+	public void method8() {
+		System.out.println("method8");
+	}
+
+	public void method9() {
+		System.out.println("method9");
 	}
 }
